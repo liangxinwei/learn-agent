@@ -3,7 +3,9 @@ https://literate-space-guacamole-4g77jv7p9rx2q5gx.github.dev/
 https://github.com/microsoft/ai-agents-for-beginners/blob/main/translations/zh/01-intro-to-ai-agents/README.md
 
 https://steampp.net/
+
 https://www.runoob.com/python3/python-venv.html
+
 Google 5 天智能体课程：https://www.kaggle.com/learn-guide/5-day-agents
 
 微软的课程：https://github.com/microsoft/ai-agents-for-beginners
